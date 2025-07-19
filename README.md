@@ -16,7 +16,7 @@ A responsive and modern restaurant landing page built with HTML and CSS. This pr
 
 ## 📸 Screenshot
 
-![image alt](https://github.com/rohansingh2609/Nike-Dashboard/blob/5c11d78e1b0405fd80e44aadf438d6bccb7b29a6/NIKE%20SALES%20DASHBOARD.png)
+![image alt](https://github.com/rohansingh2609/Restaurant_website/blob/main/Screenshot%202025-07-19%20211245.png?raw=true)
 
 
 ---
